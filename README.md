@@ -1,7 +1,5 @@
 # Community Connect
 
-https://drive.google.com/open?id=0BzqniFik8KRpVWhFNEFoMklhdm8
-
 This course is an Audit Course initiated by NIIT University for enhancing the overall development of the students studying in nearby Government schools which do not have much facilities to support quality education.
 
 This repository consists of the following:
